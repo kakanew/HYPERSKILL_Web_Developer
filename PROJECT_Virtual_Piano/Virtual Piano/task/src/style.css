@@ -1,0 +1,20 @@
+body {
+    background: green;
+    margin: 200px;
+    text-align: center;
+}
+kbd{
+    font-weight: bold;
+    background-color: white;
+    border: solid;
+    border-color: gray;
+    padding: 100px 20px 20px 20px;
+    display: inline-block;
+    text-align:center;
+    line-height:50px;
+    margin-left: -5px;
+}
+div.container {
+    display: inline-block;
+
+}
