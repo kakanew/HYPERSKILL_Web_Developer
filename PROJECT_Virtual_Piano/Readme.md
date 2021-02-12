@@ -1,6 +1,6 @@
 # WEB Developer
 
-## PROJECT Virtual Piano
+## [PROJECT Virtual Piano](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROJECT_Virtual_Piano)
 
 ##### About
 
@@ -91,3 +91,5 @@ Finally, add the black keys to your piano and customize them. We're done!
 - [ ] Position
 - [ ] Positioning Properties
 - [ ] z-index
+
+### [HYPERSKILL_Web_Developer](https://github.com/kakanew/HYPERSKILL_Web_Developer)
