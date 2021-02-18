@@ -6,10 +6,10 @@ Do you want to create your own websites or web applications? Choose this track t
 
 ### HTML
 
-- [x] Introduction to HTML
-- [x] HTML element categories
-- [ ] Interaction with other technologies
-- [ ] Basic Tags
+- [x] [Introduction to HTML](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Introduction_HTML)
+- [x] [HTML element categories](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML_element_categories)
+- [x] [Interaction with other technologies](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Interaction_with_other_technologies)
+- [x] [Basic Tags](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Basic_Tags)
 - [ ] Media files
 - [ ] Code style
 - [ ] Tables
