@@ -15,14 +15,14 @@ You will learn how to write HTML documents and work with the most popular CSS pr
 First, you need to add some elements to the body of the HTML document and learn to work with tags responsible for user input from the keyboard.
 
 - [x] IDE
-- [ ] WebStorm
+- [x] WebStorm
 - [x] World Wide Web
-- [ ] HyperText Transfer Protocol
-- [ ] HTTP URL
+- [x] HyperText Transfer Protocol
+- [x] HTTP URL
 - [x] HTML basics
 - [x] Tags and attributes
 - [x] HTML page structure
-- [ ] The Lang Attribute
+- [x] The Lang Attribute
 
 ### Stage 2/5: Page styling 
 
@@ -31,7 +31,7 @@ This stage is an opportunity to improve the appearance of your piano and make yo
 - [x] Block-level elements
 - [x] Inline Elements
 - [x] HTML attributes id and class
-- [ ] Links
+- [x] Links
 - [x] Comments
 - [x] What is CSS
 - [x] Connecting CSS to HTML
