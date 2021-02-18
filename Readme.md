@@ -4,18 +4,37 @@
 
 Do you want to create your own websites or web applications? Choose this track to learn the most popular development tool suite among programmers around the world. We will cover the basics of *JavaScript*, HTML, and CSS to discover the power of modern Frontend development.
 
-- [ ] **HTML**
+### HTML
 
-- [ ] **CSS**
+- [x] Introduction to HTML
+- [x] HTML element categories
+- [ ] Interaction with other technologies
+- [ ] Basic Tags
+- [ ] Media files
+- [ ] Code style
+- [ ] Tables
+
+### CSS
+
+- [ ] Introduction to CSS
+- [ ] Code style
+- [ ] Working with text
+- [ ] Basic properties
+- [ ] Advanced features
+- [ ] Measurement Units
+- [ ] Animation
+- [ ] Positioning
+- [ ] Flexbox
+- [ ] Selectors in depth
 
 ## [PROJECT Virtual Piano](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROJECT_Virtual_Piano)
 
-Stage 1/5: Add markup 
+### Stage 1/5: Add markup
 
 - [ ] First, you need to add some elements to the body of the HTML document and learn to work with tags responsible for user input from the keyboard.
 
 
-### Stage 2/5: Page styling 
+### Stage 2/5: Page styling
 
 - [ ] This stage is an opportunity to improve the appearance of your piano and make your application not only interesting but unique.
 
