@@ -1,0 +1,11 @@
+type: hyperskill
+title: Virtual Piano
+language: English
+summary: One of the many things that a front-end developer has to take care of is
+  binding the functionality of a web application to the keys on the keyboard. In order
+  to develop and strengthen the important skills of working with keyboard keys, we
+  will make a virtual piano in this project.<br/><br/>Learn more at <a href="https://hyperskill.org">https://hyperskill.org/projects/101</a>
+programming_language: JavaScript
+content:
+- Virtual Piano
+mode: Study
