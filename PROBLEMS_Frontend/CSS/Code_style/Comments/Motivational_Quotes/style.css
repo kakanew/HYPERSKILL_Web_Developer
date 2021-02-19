@@ -1,0 +1,11 @@
+h1 {
+    color: /*blue;*/ gray /*red*/; 
+  }
+  
+p {
+    color: white;
+    background-color: gray;
+    width: 200px;
+    /*height:500px;*/
+    font-size: 25px;
+  }

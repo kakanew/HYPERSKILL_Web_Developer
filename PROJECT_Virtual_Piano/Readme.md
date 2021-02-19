@@ -28,6 +28,12 @@ First, you need to add some elements to the body of the HTML document and learn 
 
 This stage is an opportunity to improve the appearance of your piano and make your application not only interesting but unique.
 
+- [x] Basic syntax
+- [x] Comments
+- [x] Color
+- [x] Border
+- [ ] Absolute units
+- [ ] Relative units
 - [x] Block-level elements
 - [x] Inline Elements
 - [x] HTML attributes id and class
@@ -35,12 +41,6 @@ This stage is an opportunity to improve the appearance of your piano and make yo
 - [x] Comments
 - [x] What is CSS
 - [x] Connecting CSS to HTML
-- [x] Basic syntax
-- [x] Comments
-- [x] Colors
-- [x] Border
-- [ ] Absolute units
-- [ ] Relative units
 - [x] Width and height
 - [x] Margin and padding
 
@@ -73,7 +73,7 @@ Learn how to create events that occur when a key is pressed on the keyboard.
 - [ ] Introduction to Flexbox
 - [ ] Orientation and display order
 - [ ] Flexibility, growth and contraction ratio
-  Axis alignment
+- [ ] Axis alignment
 
 ### Stage 4/5: Let there be music 
 

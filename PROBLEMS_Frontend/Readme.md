@@ -40,12 +40,12 @@ Get new skills by making real projects that suit your level. Choose the first on
 
 ### CSS
 
-- [ ] Introduction to CSS
+- [x] Introduction to CSS
   - [ ] What is CSS
-  - [ ] Basic syntax
+  - [x] Basic syntax
   - [ ] CSS Selectors
-- [ ] Code style
-  - [ ] Comments
+- [x] Code style
+  - [x] Comments
 - [ ] Working with text
   - [ ] Google Fonts
   - [ ] Stage 5
@@ -54,9 +54,9 @@ Get new skills by making real projects that suit your level. Choose the first on
   - [ ] Stage 3
   - [ ] Box-Shadow
   - [ ] line-height
-- [ ] Basic properties
+- [x] Basic properties
   - [ ] Colors
-  - [ ] Border
+  - [x] Border
   - [ ] List style
   - [ ] Width and height
   - [ ] Margin and padding
