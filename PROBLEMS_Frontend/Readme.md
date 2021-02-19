@@ -10,19 +10,19 @@ Get new skills by making real projects that suit your level. Choose the first on
 
 ### HTML
 
-- [x] Introduction to HTML
+- [x] [Introduction to HTML](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Introduction_HTML)
   - [x] HTML basics
-  - [x] Tags and attributes
-  - [x] HTML page structure
-- [x] HTML element categories
-  - [x] Block-level elements
-  - [x] Inline Elements
-- [x] Interaction with other technologies
-  - [x] HTML attributes id and class
+  - [x] [Tags and attributes](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Introduction_HTML/Tags_attributes)
+  - [x] [HTML page structure](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Introduction_HTML/HTML_page_structure)
+- [x] [HTML element categories](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML_element_categories)
+  - [x] [Block-level elements](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML_element_categories/Block-level_elements)
+  - [x] [Inline Elements](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML_element_categories/Inline_Elements)
+- [x] [Interaction with other technologies](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Interaction_with_other_technologies)
+  - [x] [HTML attributes id and class](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Interaction_with_other_technologies)
   - [ ] Connecting JS to HTML
   - [ ] DOM
   - [x] Connecting CSS to HTML
-- [x] Basic Tags
+- [x] [Basic Tags](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Basic_Tags)
   - [x] HTML forms
   - [x] Lists
   - [ ] The <i> Tag
