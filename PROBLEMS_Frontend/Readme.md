@@ -21,11 +21,11 @@ Get new skills by making real projects that suit your level. Choose the first on
   - [x] [HTML attributes id and class](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Interaction_with_other_technologies/HTML_attributes_id_class)
   - [ ] Connecting JS to HTML
   - [ ] DOM
-  - [x] Connecting CSS to HTML
+  - [x] [Connecting CSS to HTML](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Interaction_with_other_technologies/Connecting_CSS_to_HTML)
 - [x] [Basic Tags](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Basic_Tags)
   - [x] HTML forms
   - [x] Lists
-  - [ ] The <i> Tag
+  - [ ] The **<i>** Tag
   - [x] [Links](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Basic_Tags/Links)
   - [x] [The Lang Attribute](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Basic_Tags/The_Lang_Attribute)
 - [ ] Media files
