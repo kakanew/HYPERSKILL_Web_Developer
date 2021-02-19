@@ -17,12 +17,12 @@ Get new skills by making real projects that suit your level. Choose the first on
 - [x] [HTML element categories](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/HTML_element_categories)
   - [x] [Block-level elements](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/HTML_element_categories/Block-level_elements)
   - [x] [Inline Elements](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/HTML_element_categories/Inline_Elements)
-- [x] [Interaction with other technologies](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Interaction_with_other_technologies)
+- [ ] [Interaction with other technologies](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Interaction_with_other_technologies)
   - [x] [HTML attributes id and class](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Interaction_with_other_technologies/HTML_attributes_id_class)
   - [ ] Connecting JS to HTML
   - [ ] DOM
   - [x] [Connecting CSS to HTML](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Interaction_with_other_technologies/Connecting_CSS_to_HTML)
-- [x] [Basic Tags](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Basic_Tags)
+- [ ] [Basic Tags](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Basic_Tags)
   - [x] HTML forms
   - [x] Lists
   - [ ] The `<i>` Tag
@@ -32,7 +32,7 @@ Get new skills by making real projects that suit your level. Choose the first on
   - [ ] Audio
   - [ ] Imagens
 - [ ] [Code style](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Code_style)
-  - [ ] Comments
+  - [ ] [Comments](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Code_style/Comments)
   - [ ] Code style
 - [ ] Tables
   - [ ] Tables
@@ -40,7 +40,7 @@ Get new skills by making real projects that suit your level. Choose the first on
 
 ### CSS
 
-- [x] Introduction to CSS
+- [ ] Introduction to CSS
   - [ ] What is CSS
   - [x] Basic syntax
   - [ ] CSS Selectors
@@ -54,12 +54,12 @@ Get new skills by making real projects that suit your level. Choose the first on
   - [ ] Stage 3
   - [ ] Box-Shadow
   - [ ] line-height
-- [x] Basic properties
-  - [ ] Colors
+- [ ] Basic properties
+  - [x] Colors
   - [x] Border
   - [ ] List style
-  - [ ] Width and height
-  - [ ] Margin and padding
+  - [x] Width and height
+  - [x] Margin and padding
   - [ ] Background
 - [ ] Advanced features
   - [ ] Pseudo-classes

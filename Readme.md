@@ -6,10 +6,10 @@ Do you want to create your own websites or web applications? Choose this track t
 
 ### [HTML](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML)
 
-- [x] [Introduction to HTML](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Introduction_HTML
+- [x] [Introduction to HTML](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Introduction_HTML)
 - [x] [HTML element categories](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/HTML_element_categories)
-- [x] [Interaction with other technologies](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Interaction_with_other_technologies/HTML_attributes_id_class)
-- [x] [Basic Tags](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Basic_Tags)
+- [ ] [Interaction with other technologies](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Interaction_with_other_technologies/HTML_attributes_id_class)
+- [ ] [Basic Tags](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Basic_Tags)
 - [ ] Media files
 - [ ] [Code style](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Code_style)
 - [ ] Tables
@@ -31,12 +31,12 @@ Do you want to create your own websites or web applications? Choose this track t
 
 ### Stage 1/5: Add markup
 
-- [ ] First, you need to add some elements to the body of the HTML document and learn to work with tags responsible for user input from the keyboard.
+- [x] First, you need to add some elements to the body of the HTML document and learn to work with tags responsible for user input from the keyboard.
 
 
 ### Stage 2/5: Page styling
 
-- [ ] This stage is an opportunity to improve the appearance of your piano and make your application not only interesting but unique.
+- [x] This stage is an opportunity to improve the appearance of your piano and make your application not only interesting but unique.
 
 
 ### Stage 3/5: Application functionality
