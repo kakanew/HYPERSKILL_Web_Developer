@@ -4,14 +4,14 @@
 
 Do you want to create your own websites or web applications? Choose this track to learn the most popular development tool suite among programmers around the world. We will cover the basics of *JavaScript*, HTML, and CSS to discover the power of modern Frontend development.
 
-### HTML
+### [HTML](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML)
 
-- [x] [Introduction to HTML](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Introduction_HTML)
-- [x] [HTML element categories](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML_element_categories)
-- [x] [Interaction with other technologies](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Interaction_with_other_technologies)
-- [x] [Basic Tags](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Basic_Tags)
+- [x] [Introduction to HTML](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Introduction_HTML
+- [x] [HTML element categories](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/HTML_element_categories)
+- [x] [Interaction with other technologies](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Interaction_with_other_technologies/HTML_attributes_id_class)
+- [x] [Basic Tags](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Basic_Tags)
 - [ ] Media files
-- [ ] Code style
+- [ ] [Code style](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Code_style)
 - [ ] Tables
 
 ### CSS
