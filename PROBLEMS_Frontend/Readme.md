@@ -25,7 +25,7 @@ Get new skills by making real projects that suit your level. Choose the first on
 - [x] [Basic Tags](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Basic_Tags)
   - [x] HTML forms
   - [x] Lists
-  - [ ] The **<i>** Tag
+  - [ ] The `<i>` Tag
   - [x] [Links](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Basic_Tags/Links)
   - [x] [The Lang Attribute](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Basic_Tags/The_Lang_Attribute)
 - [ ] Media files
