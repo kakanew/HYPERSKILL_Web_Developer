@@ -40,12 +40,12 @@ Get new skills by making real projects that suit your level. Choose the first on
 
 ### CSS
 
-- [ ] Introduction to CSS
+- [ ] [Introduction to CSS](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Introduction_CSS)
   - [ ] What is CSS
-  - [x] Basic syntax
+  - [x] [Basic syntax](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Introduction_CSS/Basic_syntax)
   - [ ] CSS Selectors
-- [x] Code style
-  - [x] Comments
+- [x] [Code style](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Code_style)
+  - [x] [Comments](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Code_style/Comments)
 - [ ] Working with text
   - [ ] Google Fonts
   - [ ] Stage 5
@@ -54,9 +54,9 @@ Get new skills by making real projects that suit your level. Choose the first on
   - [ ] Stage 3
   - [ ] Box-Shadow
   - [ ] line-height
-- [ ] Basic properties
-  - [x] Colors
-  - [x] Border
+- [ ] [Basic properties](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Basic_properties)
+  - [x] [Colors](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Basic_properties/Color)
+  - [x] [Border](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Basic_properties/Border)
   - [ ] List style
   - [x] Width and height
   - [x] Margin and padding
