@@ -31,4 +31,6 @@ If you open this HTML file in your browser, you'll see the names of the keyboard
 
 *In the browser, the result of this step will look like this:*
 
-### ![img](https://ucarecdn.com/b10f5435-f03d-4f98-b9e3-1b1e56491b8f/)[HYPERSKILL_Web_Developer](https://github.com/kakanew/HYPERSKILL_Web_Developer)
+### ![img](https://ucarecdn.com/b10f5435-f03d-4f98-b9e3-1b1e56491b8f/)
+
+### [HYPERSKILL_Web_Developer](https://github.com/kakanew/HYPERSKILL_Web_Developer)

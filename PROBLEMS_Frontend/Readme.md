@@ -38,7 +38,7 @@ Get new skills by making real projects that suit your level. Choose the first on
   - [ ] Tables
   - [ ] Tables: Merging cells
 
-### CSS
+### [CSS](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS)
 
 - [ ] [Introduction to CSS](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Introduction_CSS)
   - [ ] What is CSS
