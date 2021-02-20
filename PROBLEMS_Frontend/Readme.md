@@ -67,9 +67,9 @@ Get new skills by making real projects that suit your level. Choose the first on
   - [ ] Visibility
   - [ ] Transform
   - [ ] Backface-visibility
-- [ ] Measurement Units
-  - [ ] Absolute units
-  - [ ] Relative units
+- [x] Measurement Units
+  - [x] Absolute units
+  - [x] Relative units
 - [ ] Animation
   - [ ] Introduction to animation
 - [ ] Positioning

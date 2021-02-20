@@ -21,7 +21,7 @@ Do you want to create your own websites or web applications? Choose this track t
 - [ ] Working with text
 - [ ] [Basic properties](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Basic_properties)
 - [ ] Advanced features
-- [ ] Measurement Units
+- [x] [Measurement Units](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Measurement_Units)
 - [ ] Animation
 - [ ] Positioning
 - [ ] Flexbox
@@ -29,27 +29,27 @@ Do you want to create your own websites or web applications? Choose this track t
 
 ## [PROJECT Virtual Piano](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROJECT_Virtual_Piano)
 
-### Stage 1/5: Add markup
+### [Stage 1/5: Add markup](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROJECT_Virtual_Piano/Stage_1-5_Add_markup)
 
 - [x] First, you need to add some elements to the body of the HTML document and learn to work with tags responsible for user input from the keyboard.
 
 
-### Stage 2/5: Page styling
+### [Stage 2/5: Page styling](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROJECT_Virtual_Piano/Stage_2-5_Page_styling)
 
-- [ ] This stage is an opportunity to improve the appearance of your piano and make your application not only interesting but unique.
+- [x] This stage is an opportunity to improve the appearance of your piano and make your application not only interesting but unique.
 
 
-### Stage 3/5: Application functionality
+### [Stage 3/5: Application functionality](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROJECT_Virtual_Piano/Stage_3_5_Application_functionality)
 
 - [ ] Learn how to create events that occur when a key is pressed on the keyboard.
 
 
-### Stage 4/5: Let there be music 
+### [Stage 4/5: Let there be music](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROJECT_Virtual_Piano/Stage_4_5_Let_there_be_music) 
 
 - [ ] Now, let's teach our musical instrument how to actually produce sound.
 
 
-### Stage 5/5: Adding and styling new keys
+### [Stage 5/5: Adding and styling new keys](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROJECT_Virtual_Piano/Stage_5_5_Adding_and_styling_new_keys)
 
 - [ ] Finally, add the black keys to your piano and customize them. We're done!
 
