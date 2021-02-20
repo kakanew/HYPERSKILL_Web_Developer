@@ -1,0 +1,14 @@
+html{
+    background-color: lightgreen;
+}
+kbd{
+    text-align: center;
+    background-color: white;
+    display: inline-block;
+    border: grey solid 7px;
+    padding: 200px 40px 40px;
+}
+.container{
+    width: fit-content;
+    margin: 20% auto;
+}
