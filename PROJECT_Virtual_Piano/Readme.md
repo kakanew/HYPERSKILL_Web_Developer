@@ -32,8 +32,8 @@ This stage is an opportunity to improve the appearance of your piano and make yo
 - [x] Comments
 - [x] Color
 - [x] Border
-- [ ] Absolute units
-- [ ] Relative units
+- [x] Absolute units
+- [x] Relative units
 - [x] Block-level elements
 - [x] Inline Elements
 - [x] HTML attributes id and class

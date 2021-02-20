@@ -14,12 +14,12 @@ Do you want to create your own websites or web applications? Choose this track t
 - [ ] [Code style](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Code_style)
 - [ ] Tables
 
-### CSS
+### [CSS](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS)
 
-- [ ] Introduction to CSS
-- [ ] Code style
+- [ ] [Introduction to CSS](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Introduction_CSS/Basic_syntax)
+- [x] [Code style](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Code_style/Comments)
 - [ ] Working with text
-- [ ] Basic properties
+- [ ] [Basic properties](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Basic_properties)
 - [ ] Advanced features
 - [ ] Measurement Units
 - [ ] Animation
@@ -36,7 +36,7 @@ Do you want to create your own websites or web applications? Choose this track t
 
 ### Stage 2/5: Page styling
 
-- [x] This stage is an opportunity to improve the appearance of your piano and make your application not only interesting but unique.
+- [ ] This stage is an opportunity to improve the appearance of your piano and make your application not only interesting but unique.
 
 
 ### Stage 3/5: Application functionality
