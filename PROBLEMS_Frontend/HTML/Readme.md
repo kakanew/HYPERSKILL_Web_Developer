@@ -9,10 +9,10 @@
 - [x] [HTML element categories](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/HTML_element_categories)
   - [x] [Block-level elements](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/HTML_element_categories/Block-level_elements)
   - [x] [Inline Elements](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/HTML_element_categories/Inline_Elements)
-- [ ] [Interaction with other technologies](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Interaction_with_other_technologies)
+- [x] [Interaction with other technologies](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Interaction_with_other_technologies)
   - [x] [HTML attributes id and class](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Interaction_with_other_technologies/HTML_attributes_id_class)
-  - [ ] Connecting JS to HTML
-  - [ ] DOM
+  - [x] Connecting JS to HTML
+  - [x] DOM
   - [x] [Connecting CSS to HTML](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Interaction_with_other_technologies/Connecting_CSS_to_HTML)
 - [ ] [Basic Tags](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Basic_Tags)
   - [x] HTML forms
