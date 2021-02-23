@@ -1,0 +1,8 @@
+.quote
+{ 
+    letter-spacing: 2px;
+    text-shadow: 3px 1px mediumturquoise,
+                 -1px 1px mediumturquoise,
+                 -1px -1px mediumturquoise,
+                 1px -1px mediumturquoise;
+  }
