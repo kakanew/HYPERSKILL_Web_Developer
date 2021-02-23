@@ -1,4 +1,4 @@
-# WEB Developer
+# [WEB Developer](https://github.com/kakanew/HYPERSKILL_Web_Developer)
 
 # [Frontend](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend)
 
@@ -22,7 +22,7 @@ Get new skills by making real projects that suit your level. Choose the first on
 
 - [x] [Introduction to CSS](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Introduction_CSS)
 - [x] [Code style](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Code_style)
-- [ ] Working with text
+- [ ] [Working with text](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Working_with_text)
 - [ ] [Basic properties](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Basic_properties)
 - [ ] Advanced features
 - [x] Measurement Units
@@ -33,9 +33,9 @@ Get new skills by making real projects that suit your level. Choose the first on
 
 # Programming languages
 
-## JavaScript
+## [JavaScript](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript)
 
-- [ ] Introduction to JavaScript
+- [ ] [Introduction to JavaScript](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Introduction_to_JavaScript)
 
 - [ ] Code style
 

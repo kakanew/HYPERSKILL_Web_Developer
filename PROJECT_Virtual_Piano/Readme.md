@@ -1,4 +1,4 @@
-# WEB Developer
+# [WEB Developer](https://github.com/kakanew/HYPERSKILL_Web_Developer)
 
 ## [PROJECT Virtual Piano](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROJECT_Virtual_Piano)
 
@@ -50,10 +50,10 @@ Learn how to create events that occur when a key is pressed on the keyboard.
 
 - [x] Connecting JS to HTML
 - [x] DOM
-- [ ] CSS Selectors
-- [ ] Text Alignment
-- [ ] Introduction to JavaScript
-- [ ] Overview of the basic program
+- [x] CSS Selectors
+- [x] Text Alignment
+- [x] Introduction to JavaScript
+- [x] Overview of the basic program
 - [ ] Multi-line programs
 - [ ] Comments
 - [ ] Variables

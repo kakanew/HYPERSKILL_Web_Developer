@@ -1,4 +1,4 @@
-# WEB Developer
+# [WEB Developer](https://github.com/kakanew/HYPERSKILL_Web_Developer)
 
 ## [Frontend](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend)
 
@@ -18,7 +18,7 @@ Do you want to create your own websites or web applications? Choose this track t
 
 - [ ] [Introduction to CSS](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Introduction_CSS/Basic_syntax)
 - [x] [Code style](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Code_style/Comments)
-- [ ] Working with text
+- [ ] [Working with text](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Working_with_text)
 - [ ] [Basic properties](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Basic_properties)
 - [ ] Advanced features
 - [x] [Measurement Units](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Measurement_Units)
@@ -26,6 +26,28 @@ Do you want to create your own websites or web applications? Choose this track t
 - [ ] Positioning
 - [ ] Flexbox
 - [ ] Selectors in depth
+
+# Programming languages
+
+## [JavaScript](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript)
+
+- [ ] [Introduction to JavaScript](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Introduction_to_JavaScript)
+
+- [ ] Code style
+
+- [ ] Data types and operations
+
+- [ ] Functions
+
+- [ ] Interaction with a browser
+
+- [ ] Loops
+
+- [ ] Modules
+
+- [ ] Promise
+
+- [ ] React
 
 ## [PROJECT Virtual Piano](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROJECT_Virtual_Piano)
 

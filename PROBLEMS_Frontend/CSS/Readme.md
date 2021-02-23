@@ -9,14 +9,14 @@ To separate markup from design management, **CSS** was developed. This division 
 - [ ] [Introduction to CSS](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Introduction_CSS)
   - [ ] What is CSS
   - [x] [Basic syntax](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Introduction_CSS/Basic_syntax)
-  - [ ] CSS Selectors
+  - [ ] [CSS Selectors](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Introduction_CSS/CSS_Selectors)
 - [x] [Code style](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Code_style)
   - [x] [Comments](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Code_style/Comments)
-- [ ] Working with text
+- [ ] [Working with text](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Working_with_text)
   - [ ] Google Fonts
   - [ ] Stage 5
   - [ ] Text shadow
-  - [ ] Text Alignment
+  - [ ] [Text Alignment](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Working_with_text/Text_Alignment)
   - [ ] Stage 3
   - [ ] Box-Shadow
   - [ ] line-height
@@ -24,8 +24,8 @@ To separate markup from design management, **CSS** was developed. This division 
   - [x] [Colors](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Basic_properties/Color)
   - [x] [Border](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Basic_properties/Border)
   - [ ] List style
-  - [x] Width and height
-  - [x] Margin and padding
+  - [ ] Width and height
+  - [x] [Margin and padding](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Basic_properties/Margin_padding)
   - [ ] Background
 - [ ] Advanced features
   - [ ] Pseudo-classes
@@ -33,8 +33,8 @@ To separate markup from design management, **CSS** was developed. This division 
   - [ ] Visibility
   - [ ] Transform
   - [ ] Backface-visibility
-- [x] Measurement Units
-  - [x] Absolute units
+- [x] [Measurement Units](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Measurement_Units)
+  - [x] [Absolute units](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Measurement_Units/Absolute_units)
   - [x] Relative units
 - [ ] Animation
   - [ ] Introduction to animation
