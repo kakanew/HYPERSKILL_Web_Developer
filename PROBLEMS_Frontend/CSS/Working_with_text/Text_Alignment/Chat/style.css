@@ -1,0 +1,46 @@
+.main {
+    margin: 0 auto;
+    width: 350px;
+    height: 400px;
+    border: 1px solid black;
+    background-color: rgba(180, 191, 255, .5);
+    border-radius: 10px;
+    background-image: url('https://hqtexture.com/uploads/posts/2012-07/1342267263-2801988-1-www.hqtexture.com.jpg');
+    background-size: 190%;
+  
+}
+.chat_head {
+    font-size: 1.2em;
+    font-weight: 700;
+    text-align: center;
+    margin: 0;
+    padding-top: 5px; 
+    margin-bottom: 10px;
+}
+  
+.chat {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.chat > div {
+    word-wrap: wrap;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+}
+  
+.chat > div:nth-child(odd) {
+    color: white;
+    background-color: rgba(72, 73, 72, 0.8);
+    text-align: end;
+}
+  
+.chat > div:nth-child(even) {
+    background-color: rgba(255, 255, 255, 0.7);
+    text-align: start;
+}
+
+.white { 
+    text-align: right;
+} 
