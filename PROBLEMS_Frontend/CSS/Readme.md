@@ -1,6 +1,10 @@
 # [WEB Developer](https://github.com/kakanew/HYPERSKILL_Web_Developer)
 
+## FrontPage
+
 ## [CSS](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS)
+
+To separate markup from design management, **CSS** was developed. This division made code simpler and cleaner, reducing the duplication of lines. **CSS (Cascading Style Sheets)** is a language responsible for the visual presentation of documents written in HTML. CSS allows to change the colors of the elements, their height and width, the location of individual blocks, background images, and much more. CSS files are saved in `.css` format.
 
 - [ ] [Introduction to CSS](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Introduction_CSS)
   - [ ] What is CSS

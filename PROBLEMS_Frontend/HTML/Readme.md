@@ -1,6 +1,10 @@
 # [WEB Developer](https://github.com/kakanew/HYPERSKILL_Web_Developer)
 
+## FrontPage
+
 ## [HTML](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML)
+
+**HTML** is a language used to create web pages: it manages their structure and content. HTML is an abbreviation that everyone has probably heard; it stands for **HyperText Markup Language**. **Hypertext** here refers to text information that is connected to other texts through links, weaving together this interconnected spiderweb of pages.
 
 - [x] [Introduction to HTML](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Introduction_HTML)
   - [x] HTML basics
