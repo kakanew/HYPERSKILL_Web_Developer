@@ -48,8 +48,8 @@ This stage is an opportunity to improve the appearance of your piano and make yo
 
 Learn how to create events that occur when a key is pressed on the keyboard.
 
-- [ ] Connecting JS to HTML
-- [ ] DOM
+- [x] Connecting JS to HTML
+- [x] DOM
 - [ ] CSS Selectors
 - [ ] Text Alignment
 - [ ] Introduction to JavaScript
