@@ -6,10 +6,9 @@ These days, it is difficult to find sites that do not allow visitors to interact
 
 ## [JavaScript](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript)
 
-- [ ] [Introduction to JavaScript](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Introduction_to_JavaScript)
 - [ ] [Introduction to JavaScript](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Introduction_to_JavaScript/Introduction_to_JavaScript)
-  - [ ] Overview of the basic program
-  - [ ] Multi-line programs
+  - [x] Overview of the basic program
+  - [x] Multi-line programs
   - [ ] Variables
 - [ ] Code style
 
