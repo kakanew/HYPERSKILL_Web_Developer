@@ -7,14 +7,19 @@ These days, it is difficult to find sites that do not allow visitors to interact
 ## [JavaScript](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript)
 
 - [ ] [Introduction to JavaScript](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Introduction_to_JavaScript/Introduction_to_JavaScript)
-  - [x] Overview of the basic program
-  - [x] Multi-line programs
-  - [ ] Variables
+  
+  - [x] [Introduction to JavaScript](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Introduction_to_JavaScript/Introduction_to_JavaScript)
+  
+  - [x] [Overview of the basic program](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Introduction_to_JavaScript/Overview_of_the_basic_program)
+  - [x] [Multi-line programs](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Introduction_to_JavaScript/Multi-line_programs)
+  - [ ] [Variables](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Introduction_to_JavaScript/Variables)
+  
 - [ ] Code style
 
   - [ ] Comments
   - [ ] Naming variables
   - [ ] JavaScript Code Style
+  
 - [ ] Data types and operations
 
   - [ ] Strings and numbers
@@ -33,6 +38,7 @@ These days, it is difficult to find sites that do not allow visitors to interact
   - [ ] ForEach method
   - [ ] Switch
   - [ ] Scope of variables
+  
 - [ ] Functions
 
   - [ ] Functions
@@ -41,6 +47,7 @@ These days, it is difficult to find sites that do not allow visitors to interact
   - [ ] Function constructor
   - [ ] Async/await
   - [ ] Anonymous function
+  
 - [ ] Interaction with a browser
 
   - [ ] Topics in current group
@@ -51,18 +58,22 @@ These days, it is difficult to find sites that do not allow visitors to interact
   - [ ] The "addEventListener" method
   - [ ] Keyboard events handling
   - [ ] ClassList
+  
 - [ ] Loops
 
   - [ ] For loops
   - [ ] While loops
   - [ ] Break and continue
+  
 - [ ] Modules
 
   - [ ] Modules
+  
 - [ ] Promise
 
   - [ ] Introduction to Promises
   - [ ] "then", "catch" and "finally" methods
+  
 - [ ] React
 
   - [ ] Introduction to React
