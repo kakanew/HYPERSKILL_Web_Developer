@@ -1,14 +1,13 @@
-# WEB Developer
+# [WEB Developer](https://github.com/kakanew/HYPERSKILL_Web_Developer)
 
 ## Programming languages
 
 These days, it is difficult to find sites that do not allow visitors to interact with them. Think sliders, web galleries, animation and whatever other interactive events that pop out when you press some button. The processing of user input, the ability to send/receive data from servers and other interactive behavior are provided by **JavaScript**.
 
-## JavaScript
+## [JavaScript](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript)
 
-- [ ] Introduction to JavaScript
-
-  - [ ] Introduction to JavaScript
+- [ ] [Introduction to JavaScript](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Introduction_to_JavaScript)
+- [ ] [Introduction to JavaScript](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Introduction_to_JavaScript/Introduction_to_JavaScript)
   - [ ] Overview of the basic program
   - [ ] Multi-line programs
   - [ ] Variables
