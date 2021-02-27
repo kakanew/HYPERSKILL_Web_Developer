@@ -35,22 +35,17 @@ Get new skills by making real projects that suit your level. Choose the first on
 
 ## [JavaScript](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript)
 
-- [ ] [Introduction to JavaScript](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Introduction_to_JavaScript)
-
+- [x] [Introduction to JavaScript](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Introduction_to_JavaScript)
 - [ ] Code style
-
-- [ ] Data types and operations
-
+- [ ] Data types
+- [ ] Operations
 - [ ] Functions
-
 - [ ] Interaction with a browser
-
+- [ ] ES6
+- [ ] Array processing
 - [ ] Loops
-
 - [ ] Modules
-
 - [ ] Promise
-
 - [ ] React
 
 

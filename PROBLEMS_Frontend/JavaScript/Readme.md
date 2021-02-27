@@ -6,39 +6,32 @@ These days, it is difficult to find sites that do not allow visitors to interact
 
 ## [JavaScript](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript)
 
-- [ ] [Introduction to JavaScript](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Introduction_to_JavaScript/Introduction_to_JavaScript)
+- [x] [Introduction to JavaScript](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Introduction_to_JavaScript/Introduction_to_JavaScript)
   
   - [x] [Introduction to JavaScript](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Introduction_to_JavaScript/Introduction_to_JavaScript)
   
   - [x] [Overview of the basic program](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Introduction_to_JavaScript/Overview_of_the_basic_program)
   - [x] [Multi-line programs](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Introduction_to_JavaScript/Multi-line_programs)
-  - [ ] [Variables](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Introduction_to_JavaScript/Variables)
-  
+  - [x] [Variables](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Introduction_to_JavaScript/Variables)
 - [ ] Code style
 
-  - [ ] Comments
+  - [x] Comments
   - [ ] Naming variables
   - [ ] JavaScript Code Style
-  
-- [ ] Data types and operations
-
-  - [ ] Strings and numbers
-  - [ ] Arithmetic operators
-  - [ ] Boolean and logical operators
-  - [ ] Introduction to Objects
-  - [ ] Template literals
-  - [ ] Arrays
+- [ ] Data types
+- [x] Strings and numbers
+  - [x] Boolean and logical operators
+  - [x] Introduction to Objects
   - [ ] Null and Undefined
+
+- [ ] Operations
+  - [ ] Arithmetic operators
   - [ ] Type conversion
   - [ ] Comparison operators
   - [ ] Object methods and keyword "this"
   - [ ] Conditional operators
   - [ ] Increment and decrement
-  - [ ] Slicing
-  - [ ] ForEach method
-  - [ ] Switch
   - [ ] Scope of variables
-  
 - [ ] Functions
 
   - [ ] Functions
@@ -47,7 +40,6 @@ These days, it is difficult to find sites that do not allow visitors to interact
   - [ ] Function constructor
   - [ ] Async/await
   - [ ] Anonymous function
-  
 - [ ] Interaction with a browser
 
   - [ ] Topics in current group
@@ -58,22 +50,25 @@ These days, it is difficult to find sites that do not allow visitors to interact
   - [ ] The "addEventListener" method
   - [ ] Keyboard events handling
   - [ ] ClassList
-  
+- [ ] ES6
+  - [ ] Template literals
+- [ ] Array processing
+  - [ ] Arrays
+  - [ ] Slicing
+  - [ ] ForEach method
 - [ ] Loops
 
   - [ ] For loops
+  - [ ] Switch
   - [ ] While loops
   - [ ] Break and continue
-  
 - [ ] Modules
 
   - [ ] Modules
-  
 - [ ] Promise
 
   - [ ] Introduction to Promises
   - [ ] "then", "catch" and "finally" methods
-  
 - [ ] React
 
   - [ ] Introduction to React
