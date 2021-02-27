@@ -13,27 +13,25 @@ These days, it is difficult to find sites that do not allow visitors to interact
   - [x] [Overview of the basic program](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Introduction_to_JavaScript/Overview_of_the_basic_program)
   - [x] [Multi-line programs](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Introduction_to_JavaScript/Multi-line_programs)
   - [x] [Variables](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Introduction_to_JavaScript/Variables)
-- [ ] Code style
-
-  - [x] Comments
+- [ ] [Code style](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Code_style)
+- [x] Comments
   - [ ] Naming variables
   - [ ] JavaScript Code Style
-- [ ] Data types
-  - [x] Strings and numbers
-  - [x] Boolean and logical operators
-  - [x] Introduction to Objects
+- [ ] [Data types](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Data_Types)
+  - [x] [Strings and numbers](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Data_Types/Introduction_to_Objects)
+  - [x] [Boolean and logical operators](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Data_Types/Boolean_and_logical_operators)
+  - [x] [Introduction to Objects](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Data_Types/Introduction_to_Objects)
   - [ ] Null and Undefined
-- [ ] Operations
-  - [x] Arithmetic operators
+- [ ] [Operations](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Operations)
+  - [x] [Arithmetic operators](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Operations/Arithmetic%20operators)
   - [ ] Type conversion
   - [ ] Comparison operators
   - [ ] Object methods and keyword "this"
   - [ ] Conditional operators
   - [ ] Increment and decrement
   - [ ] Scope of variables
-- [ ] Functions
-
-  - [x] Functions
+- [ ] [Functions](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Functions/Functions)
+  - [x] [Functions](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Functions/Functions)
   - [ ] Arrow functions
   - [ ] setTimeout and setInterval
   - [ ] Function constructor
