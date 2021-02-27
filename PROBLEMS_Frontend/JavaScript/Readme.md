@@ -17,11 +17,11 @@ These days, it is difficult to find sites that do not allow visitors to interact
 - [x] Comments
   - [ ] Naming variables
   - [ ] JavaScript Code Style
-- [ ] [Data types](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Data_Types)
+- [x] [Data types](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Data_Types)
   - [x] [Strings and numbers](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Data_Types/Introduction_to_Objects)
   - [x] [Boolean and logical operators](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Data_Types/Boolean_and_logical_operators)
   - [x] [Introduction to Objects](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Data_Types/Introduction_to_Objects)
-  - [ ] Null and Undefined
+  - [x] [Null and Undefined](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Data_Types/Null_and_Undefined)
 - [ ] [Operations](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Operations)
   - [x] [Arithmetic operators](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/JavaScript/Operations/Arithmetic%20operators)
   - [ ] Type conversion
