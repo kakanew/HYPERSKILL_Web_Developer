@@ -19,13 +19,12 @@ These days, it is difficult to find sites that do not allow visitors to interact
   - [ ] Naming variables
   - [ ] JavaScript Code Style
 - [ ] Data types
-- [x] Strings and numbers
+  - [x] Strings and numbers
   - [x] Boolean and logical operators
   - [x] Introduction to Objects
   - [ ] Null and Undefined
-
 - [ ] Operations
-  - [ ] Arithmetic operators
+  - [x] Arithmetic operators
   - [ ] Type conversion
   - [ ] Comparison operators
   - [ ] Object methods and keyword "this"
@@ -34,7 +33,7 @@ These days, it is difficult to find sites that do not allow visitors to interact
   - [ ] Scope of variables
 - [ ] Functions
 
-  - [ ] Functions
+  - [x] Functions
   - [ ] Arrow functions
   - [ ] setTimeout and setInterval
   - [ ] Function constructor
