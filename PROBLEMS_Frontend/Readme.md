@@ -1,4 +1,4 @@
-# [[WEB](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Frontend/CSS/Measurement_Units) Developer](https://github.com/kakanew/HYPERSKILL_Web_Developer)
+# [WEB Developer](https://github.com/kakanew/HYPERSKILL_Web_Developer)
 
 # [Frontend](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Frontend)
 
@@ -10,20 +10,20 @@ Get new skills by making real projects that suit your level. Choose the first on
 
 ### [HTML](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Frontend/HTML)
 
-- [x] Introduction to HTML
-- [x] HTML element categories
+- [x] [Introduction to HTML](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Frontend/HTML/Introduction_HTML)
+- [x] [HTML element categories](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Frontend/HTML/HTML_element_categories)
 - [ ] Media files
-- [ ] Code style
-- [x] Interaction with other technologies
-- [ ] Basic Tags
+- [x] [Code style](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Frontend/HTML/Code_style)
+- [x] [Interaction with other technologies](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Frontend/HTML/Interaction_with_other_technologies)
+- [x] [Basic Tags](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Frontend/HTML/Basic_Tags)
 - [ ] Tables
 
 ### [CSS](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Frontend/CSS)
 
 - [x] [Introduction to CSS](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Frontend/CSS/Introduction_CSS)
 - [x] [Code style](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Frontend/CSS/Code_style)
-- [ ] [Working with text](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Frontend/CSS/Working_with_text)
-- [ ] [Basic properties](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Frontend/CSS/Basic_properties)
+- [x] [Working with text](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Frontend/CSS/Working_with_text)
+- [x] [Basic properties](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Frontend/CSS/Basic_properties)
 - [ ] Advanced features
 - [x] [Measurement Units](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Frontend/CSS/Measurement_Units)
 - [ ] Animation
@@ -36,10 +36,10 @@ Get new skills by making real projects that suit your level. Choose the first on
 ## [JavaScript](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript)
 
 - [x] [Introduction to JavaScript](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Introduction_to_JavaScript)
-- [ ] [Code style](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Code_style)
-- [ ] [Data types](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Data_Types)
-- [ ] [Operations](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Operations)
-- [ ] [Functions](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Functions)
+- [x] [Code style](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Code_style)
+- [x] [Data types](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Data_Types)
+- [x] [Operations](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Operations)
+- [x] [Functions](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Functions)
 - [ ] Interaction with a browser
 - [ ] ES6
 - [ ] Array processing

@@ -22,7 +22,7 @@ These days, it is difficult to find sites that do not allow visitors to interact
   - [x] [Introduction to Objects](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Data_Types/Introduction_to_Objects)
   - [x] [Null and Undefined](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Data_Types/Null_and_Undefined)
 - [ ] [Operations](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Operations)
-  - [x] Arithmetic operators
+  - [x] [Arithmetic operators](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Operations/Arithmetic_operators)
   - [ ] [Type conversion](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Operations/Type_conversion)
   - [ ] Comparison operators
   - [ ] Object methods and keyword "this"

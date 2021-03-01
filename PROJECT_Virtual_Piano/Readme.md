@@ -54,17 +54,17 @@ Learn how to create events that occur when a key is pressed on the keyboard.
 - [x] Text Alignment
 - [x] Introduction to JavaScript
 - [x] Overview of the basic program
-- [ ] Multi-line programs
-- [ ] Comments
-- [ ] Variables
-- [ ] Strings and numbers
-- [ ] Arithmetic operators
-- [ ] Boolean and logical operators
-- [ ] Introduction to Objects
-- [ ] Functions
-- [ ] Null and Undefined
-- [ ] Type conversion
-- [ ] Comparison operators
+- [x] Multi-line programs
+- [x] Comments
+- [x] Variables
+- [x] Strings and numbers
+- [x] Arithmetic operators
+- [x] Boolean and logical operators
+- [x] Introduction to Objects
+- [x] Functions
+- [x] Null and Undefined
+- [x] Type conversion
+- [x] Comparison operators
 - [ ] Conditional operators
 - [ ] DOM methods
 - [ ] DOM events
