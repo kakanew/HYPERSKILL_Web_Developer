@@ -8,13 +8,13 @@ Do you want to create your own websites or web applications? Choose this track t
 
 Get new skills by making real projects that suit your level. Choose the first one and let the adventure begin! After completing all the topics and projects in the track, you will be able to make a website or application for your own purposes. In the process of learning, you will find out:
 
-### [HTML](/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML)
+### [HTML](/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Frontend/HTML)
 
-- [x] [Introduction to HTML](/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Introduction_HTML)
-- [x] [HTML element categories](/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/HTML_element_categories)
+- [x] [Introduction to HTML](/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Frontend/HTML/Introduction_HTML)
+- [x] [HTML element categories](/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Frontend/HTML/HTML_element_categories)
 - [ ] Media files
 - [ ] Code style
-- [x] [Interaction with other technologies](/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/HTML/Interaction_with_other_technologies)
+- [x] [Interaction with other technologies](/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Frontend/HTML/Interaction_with_other_technologies)
 - [ ] Basic Tags
 - [ ] Tables
 
