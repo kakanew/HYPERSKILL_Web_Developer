@@ -1,4 +1,4 @@
-# [WEB Developer](/HYPERSKILL_Web_Developer)
+# [WEB Developer](../HYPERSKILL_Web_Developer)
 
 # [Frontend](/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Frontend)
 
