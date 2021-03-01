@@ -1,6 +1,6 @@
 # [WEB Developer](/HYPERSKILL_Web_Developer)
 
-# [Frontend](/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend)
+# [Frontend](/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Frontend)
 
 Do you want to create your own websites or web applications? Choose this track to learn the most popular development tool suite among programmers around the world. We will cover the basics of *JavaScript*, HTML, and CSS to discover the power of modern Frontend development.
 
@@ -18,7 +18,7 @@ Get new skills by making real projects that suit your level. Choose the first on
 - [ ] Basic Tags
 - [ ] Tables
 
-### [CSS](/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS)
+### [CSS](/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Frontend/CSS)
 
 - [x] [Introduction to CSS](/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Introduction_CSS)
 - [x] [Code style](/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/CSS/Code_style)
