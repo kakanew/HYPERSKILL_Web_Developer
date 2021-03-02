@@ -23,10 +23,10 @@ These days, it is difficult to find sites that do not allow visitors to interact
   - [x] [Null and Undefined](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Data_Types/Null_and_Undefined)
 - [ ] [Operations](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Operations)
   - [x] [Arithmetic operators](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Operations/Arithmetic_operators)
-  - [ ] [Type conversion](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Operations/Type_conversion)
-  - [ ] Comparison operators
+  - [x] [Type conversion](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Operations/Type_conversion)
+  - [x] [Comparison operators](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Operations/Comparison_operators)
   - [ ] Object methods and keyword "this"
-  - [ ] Conditional operators
+  - [x] [Conditional operators](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Operations/Conditional_operators)
   - [ ] Increment and decrement
   - [ ] Scope of variables
 - [ ] [Functions](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Functions)
