@@ -36,15 +36,14 @@ These days, it is difficult to find sites that do not allow visitors to interact
   - [ ] Function constructor
   - [ ] Async/await
   - [ ] Anonymous function
-- [ ] Interaction with a browser
-
-  - [ ] Topics in current group
-  - [x] DOM methods
+- [ ] [Interaction with a browser](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Interaction_with_a_browser)
+- [ ] Topics in current group
+  - [x] [DOM methods](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Interaction_with_a_browser/DOM_methods)
   - [ ] Audio Object
   - [ ] Window Object
-  - [ ] DOM events
-  - [ ] The "addEventListener" method
-  - [ ] Keyboard events handling
+  - [x] DOM events
+  - [x] [The "addEventListener" method](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Interaction_with_a_browser/The_addEventListener_method)
+  - [x] [Keyboard events handling](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Interaction_with_a_browser/Keyboard_events_handling)
   - [ ] ClassList
 - [ ] ES6
   - [ ] Template literals
