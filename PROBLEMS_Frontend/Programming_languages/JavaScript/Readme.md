@@ -39,7 +39,7 @@ These days, it is difficult to find sites that do not allow visitors to interact
 - [ ] Interaction with a browser
 
   - [ ] Topics in current group
-  - [ ] DOM methods
+  - [x] DOM methods
   - [ ] Audio Object
   - [ ] Window Object
   - [ ] DOM events
