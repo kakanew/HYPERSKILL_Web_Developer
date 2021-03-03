@@ -37,7 +37,6 @@ These days, it is difficult to find sites that do not allow visitors to interact
   - [ ] Async/await
   - [ ] Anonymous function
 - [ ] [Interaction with a browser](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Interaction_with_a_browser)
-- [ ] Topics in current group
   - [x] [DOM methods](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROBLEMS_Frontend/Programming_languages/JavaScript/Interaction_with_a_browser/DOM_methods)
   - [ ] Audio Object
   - [ ] Window Object
