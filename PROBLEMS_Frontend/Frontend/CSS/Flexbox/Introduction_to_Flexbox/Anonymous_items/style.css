@@ -1,0 +1,17 @@
+.flex-container{
+  color: brown;
+  display: flex;
+  flex-direction: row;
+  font-family: 'Montserrat', sans-serif;
+  justify-content: space-around;
+  font-size: 1.1em;
+  width: 100%;
+}
+
+.flex-item{
+  background: #faf7f5;
+  border:1px solid brown;
+  border-radius: 10px;
+  padding: 0 2em 0 2em;
+  text-align: center;
+}
