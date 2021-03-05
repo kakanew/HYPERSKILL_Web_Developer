@@ -1,0 +1,54 @@
+.profile{
+  flex-direction: column-reverse;
+}
+
+.last-orders{
+  flex-direction: row-reverse;
+}
+
+/* Don't edit code below */
+.product{
+  flex-basis: 3vw;
+  margin-bottom: 2em;
+  height: auto;
+  margin-left: .5vw;
+  margin-right: .5vw;
+}
+
+.product img{
+  width: 100%;
+  margin-bottom: 1em;
+}
+
+.product-name{
+  font-size: 1.3em;
+}
+
+.profile{
+  display:flex;
+  align-items: center;
+}
+
+.profile-picture{
+  margin-bottom: 2em;
+}
+
+.profile-picture img{
+  width: 20vw;
+}
+
+.last-orders{
+  display:flex;
+  width: 50vw;
+}
+
+.profile-info{
+  text-align:left;
+  font-size: 1.1em;
+  width: 20vw;
+  margin-bottom: 2em;
+}
+
+.profile-info h2{
+  padding-top: .5em;
+}

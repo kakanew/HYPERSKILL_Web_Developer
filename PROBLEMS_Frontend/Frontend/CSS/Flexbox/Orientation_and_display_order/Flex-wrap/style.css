@@ -1,0 +1,45 @@
+.catalog{
+  flex-wrap: wrap;
+}
+
+/* Do not edit the code below. */
+
+.catalog{
+  width: 70vw;
+  display: flex;
+  justify-content: flex-start;
+  font-family: 'Montserrat', sans-serif;
+  border: 2px solid #c3ecbd;
+}
+
+.product{
+  width: 15vw;
+  flex-shrink: 0;
+  border: 1px solid #c3ecbd;
+  padding-bottom: 1em;
+  margin: .5em 0 .5em .5em;
+  background: white;
+
+}
+
+.product p{
+  padding-left: 8%;
+  padding-right: 8%;
+  text-align: left;
+  margin-bottom: 1em;
+  font-size: 1em;
+}
+
+.name{
+  text-decoration: underline;
+}
+
+.name:hover{
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.product img{
+  width: 100%;
+  margin-bottom: 2em;
+}

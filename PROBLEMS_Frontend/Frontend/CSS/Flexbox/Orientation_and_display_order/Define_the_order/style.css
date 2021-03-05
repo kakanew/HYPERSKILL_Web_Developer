@@ -1,0 +1,32 @@
+.section1{
+  order: 1;
+}
+
+.section2{
+  order: 2;
+}
+
+.section3{
+  order: 0;
+}
+
+.section4{
+  order: 3;
+}
+
+/* Do not edit the code below */
+.menu{
+  width: 60vw;
+  display: flex;
+  height: 3em;
+  line-height: 3em;
+  background: linear-gradient(90deg, #8264f6, #66d390);
+}
+
+.menu-item{
+  text-align: center;
+  flex-basis: 1vw;
+  border-right: 1px solid white;
+  color: white;
+  flex-grow: 1;
+}
