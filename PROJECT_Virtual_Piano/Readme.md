@@ -65,15 +65,15 @@ Learn how to create events that occur when a key is pressed on the keyboard.
 - [x] Null and Undefined
 - [x] Type conversion
 - [x] Comparison operators
-- [ ] Conditional operators
-- [ ] DOM methods
-- [ ] DOM events
-- [ ] The "addEventListener" method
-- [ ] Keyboard events handling
-- [ ] Introduction to Flexbox
-- [ ] Orientation and display order
-- [ ] Flexibility, growth and contraction ratio
-- [ ] Axis alignment
+- [x] Conditional operators
+- [x] DOM methods
+- [x] DOM events
+- [x] The "addEventListener" method
+- [x] Keyboard events handling
+- [x] Introduction to Flexbox
+- [x] Orientation and display order
+- [x] Flexibility, growth and contraction ratio
+- [x] Axis alignment
 
 ### [Stage 4/5: Let there be music](https://github.com/kakanew/HYPERSKILL_Web_Developer/tree/master/PROJECT_Virtual_Piano/Stage_4_5_Let_there_be_music) 
 
