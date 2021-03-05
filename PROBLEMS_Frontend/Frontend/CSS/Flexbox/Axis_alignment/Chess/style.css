@@ -1,0 +1,29 @@
+.item2{
+  align-self: flex-end;
+}
+
+.item4{
+  align-self: flex-end;
+}
+
+.menu{
+  width: 32em;
+  display: flex;
+  height: 8em;
+  line-height: 4em;
+  background: #b4773e;
+}
+
+.menu-item{
+  text-align: center;
+  flex-basis: 8em;
+  color: #b4773e;
+  background: #ebd9a1;
+  height: 4em;
+  flex-grow: 1;
+}
+
+.menu-item:hover{
+  background: #d9bd65;
+  cursor: pointer;
+}

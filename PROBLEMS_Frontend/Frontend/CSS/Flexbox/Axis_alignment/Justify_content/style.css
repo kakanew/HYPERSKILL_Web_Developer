@@ -1,0 +1,76 @@
+.catalog{
+  justify-content: space-around;
+}
+
+.popular{
+  justify-content: flex-start;
+}
+
+/* Do not edit the code below */
+.catalog{
+  width: 90vw;
+  display: flex;
+  flex-flow: row wrap;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.product{
+  width: 15vw;
+  padding-bottom: 1em;
+}
+
+.product p{
+  padding-left: 8%;
+  padding-right: 8%;
+  text-align: left;
+  margin-bottom: 1em;
+  font-size: 1em;
+}
+
+.name{
+  text-decoration: underline;
+}
+
+.name:hover{
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.product img{
+  width: 100%;
+  margin-bottom: 2em;
+}
+
+
+.popular{
+  display: flex;
+  flex-direction: column;
+  width: 24vw;
+  height: 100vh;
+  align-items: center;
+}
+
+.catalog-page{
+  display: flex;
+  padding-top: 4em;
+}
+
+.product-popular{
+  width: 9vw;
+  flex-grow: 0;
+  align-self: center;
+}
+
+.product-popular p{
+  margin-bottom: .4em;
+}
+
+.product-popular img{
+  margin-bottom: .7em;
+}
+
+.popular h2{
+  text-align: center;
+  margin-top: 0;
+  padding-top: 0;
+}

@@ -1,0 +1,62 @@
+.footer{
+  justify-content: space-around;
+}
+
+.column3{
+  align-self: flex-end;
+}
+
+/* Do not edit th code below! */
+.footer{
+  background: #989898;
+  display: flex;
+  color: white;
+  text-align: left;
+  padding: 5em;
+}
+
+.footer h2{
+  padding: 0 0 1em 0;
+  margin: 0;
+}
+
+.footer a{
+  color: white;
+}
+
+.footer p{
+  margin: .5em 0 .5em 0;
+}
+
+.footer input{
+  border: none;
+  border-bottom: 2px solid white;
+  background: transparent;
+  color: white;
+  margin: .1em 0 0 0;
+  width: 20em;
+  height: 2em;
+}
+
+.footer input::placeholder{
+  color: white;
+}
+
+.btn-sbscrb{
+  border: 2px solid white;
+  text-align: center;
+  background: transparent;
+  padding: .5em;
+  color: white;
+  margin: 0 0 0 .5em;
+}
+
+.column1{
+  align-self: flex-end;
+}
+.column2{
+  align-self: flex-end;
+}
+
+.footer:first-child{
+}

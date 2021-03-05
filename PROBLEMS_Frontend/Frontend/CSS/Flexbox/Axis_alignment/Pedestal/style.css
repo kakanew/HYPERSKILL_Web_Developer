@@ -1,0 +1,44 @@
+.silver{
+  align-self: center;
+}
+
+.gold{
+  align-self: flex-start;
+}
+
+.bronze{
+  align-self: flex-end;
+}
+
+/* Do not edit the code below */
+.flex-container{
+  align-content: space-between;
+  color: white;
+  display: flex;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2em;
+  height: 6em;
+  justify-content: space-around;
+  line-height: 3em;
+  width: 70%;
+}
+
+.flex-item{
+  background: #faf7f5;
+  flex-basis: 30%;
+  height: 3em;
+  text-align: center;
+}
+
+.gold{
+  background: #fad201;
+}
+
+.silver{
+  background: #cccccc;
+}
+
+.bronze{
+  background: #cd7f32;
+}
+
